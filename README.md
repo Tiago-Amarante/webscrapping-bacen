@@ -9,4 +9,6 @@ https://github.com/DanielHott/automacao-dados-consolidados
 
 Em resumo ele encontrou o URL que solicita o download, por sorte este URL possui os parâmetros de data de forma explicita que pudemos utilizar para baixar todos os dados necessários.
 
-Utilizo o código dele como referência para o download dos dados.E dou sequência aos processos de extração, tratamento e geração do dataset para futuras aplicações em inteligÊncia de mercado. 
+Então de forma simples este projeto faz o download de qualquer planilha da página 
+https://www.bcb.gov.br/estabilidadefinanceira/consorciobd
+descompacta estes arquivos e concatena as diversas planilhas de acordo com a data escolhida. 
